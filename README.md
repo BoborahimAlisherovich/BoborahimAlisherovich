@@ -1,2 +1,1 @@
-
-![photo_2024-03-01_15-20-10](https://github.com/BoborahimAlisherovich/BoborahimAlisherovich/assets/157810653/162eba00-e76e-458f-8700-27834c133c7c)
+![photo_2024-03-06_15-05-42](https://github.com/BoborahimAlisherovich/BoborahimAlisherovich/assets/157810653/fb0f8434-c32c-49e4-9c6e-eb5f40668ef5)
