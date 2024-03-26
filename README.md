@@ -1,1 +1,1 @@
-![5319288134372020731_99](https://github.com/BoborahimAlisherovich/BoborahimAlisherovich/assets/157810653/c4e7cfe1-afe4-43b8-8992-e06e925ec6d0)
+![Boborahim](https://github.com/BoborahimAlisherovich/BoborahimAlisherovich/assets/157810653/47509f20-c4a2-489d-8543-5d9b6ef2f8d8)
