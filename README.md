@@ -1,1 +1,1 @@
-Mening Ismim Boborahim
+Rustamqulov Boborahim
