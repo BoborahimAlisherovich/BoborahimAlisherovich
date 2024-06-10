@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Boborahim
+- 👋 Hi, I’m @davlatbekzoirov
 - 👀 I’m interested in creating sites and bots, AI and others
-- 🌱 I am currently learning the Django framework
-- 😄 Pronouns: uzbek - native
+- 🌱 I’m currently learning DATA SCIENSE
+- 💞 I’m looking to collaborate on SIFAT IT ACADEMY
+- 😄 Pronouns: english - fluence, uzbek - native, russian - fluence
 
 <picture>
   <source
@@ -46,6 +47,6 @@
 
 **Contact**
 
-[![Linkedin Badge]([https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukurali-rezamonov/)](https://www.linkedin.com/in/shukurali-rezamonov/](https://www.linkedin.com/in/boborahim-rustamqulov-a1a1652b0/))
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukurali-rezamonov/)](https://www.linkedin.com/in/shukurali-rezamonov/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shukuralijob@gmail.com)](mailto:shukurdev2002@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Shukurali_Rezamonov)](https://t.me/Shukurali_Rezamonov)
