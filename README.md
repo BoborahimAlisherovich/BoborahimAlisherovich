@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @davlatbekzoirov
+- 👋 Hi, I’m Boborahim
 - 👀 I’m interested in creating sites and bots, AI and others
-- 🌱 I’m currently learning DATA SCIENSE
-- 💞 I’m looking to collaborate on SIFAT IT ACADEMY
-- 😄 Pronouns: english - fluence, uzbek - native, russian - fluence
+- 🌱 I am currently learning the Django framework
+- 😄 Pronouns: uzbek - native
 
 <picture>
   <source
