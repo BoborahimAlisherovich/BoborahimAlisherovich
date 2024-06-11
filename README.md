@@ -1,6 +1,3 @@
-
-https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png
-
 - 👋 Hi, I’m Boborahim
 - 👀 I’m interested in creating sites and bots, AI and others
 - 🌱 I am currently learning the Django framework
