@@ -54,7 +54,7 @@
 
 
   <p align="center">
-    <a href="https://github.com/apollxo">
+    <a href="https://github.com/BoborahimAlisherovich">
       <span>
         <img align="center"
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollxo&theme=github_dark" width="100%" />
@@ -71,6 +71,6 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukurali-rezamonov/)](https://www.linkedin.com/in/shukurali-rezamonov/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shukuralijob@gmail.com)](mailto:shukurdev2002@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Shukurali_Rezamonov)](https://t.me/Shukurali_Rezamonov)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukurali-rezamonov/)](https://www.linkedin.com/in/boborahim-rustamqulov/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boborahimrustamqulov0@gmail.com)]()
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Alisherov1ch_002)](https://t.me/Alisherov1ch_002)
