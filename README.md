@@ -57,7 +57,7 @@
     <a href="https://github.com/BoborahimAlisherovich">
       <span>
         <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apollxo&theme=github_dark" width="100%" />
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoborahimAlisherovich&theme=github_dark" width="100%" />
       </span></a>
   </p>
   <span>
