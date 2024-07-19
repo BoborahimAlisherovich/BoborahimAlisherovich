@@ -71,6 +71,6 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukurali-rezamonov/)](https://www.linkedin.com/in/boborahim-rustamqulov/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boborahim-rustamqulov-a1a1652b0/)](https://www.linkedin.com/in/boborahim-rustamqulov-a1a1652b0/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boborahimrustamqulov0@gmail.com)]()
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Alisherov1ch_002)](https://t.me/Alisherov1ch_002)
