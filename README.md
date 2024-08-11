@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mabrur-h">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Boborahimdev-h">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Mabrur👨‍💻&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+BoborahimDev👨‍💻&center=true&size=30">
   </a>
 </h1>
  
