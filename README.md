@@ -3,8 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+observers👋;This+is+BoborahimDev👨‍💻&center=true&size=30">
   </a>
 </h1>
-![photo_2024-11-24_23-15-25](https://github.com/user-attachments/assets/09863d1d-ab6a-43a9-8c49-0d3fdd170afd)
 
+
+![Black and White Modern Welcome to my Channel Video (1)~1](https://github.com/user-attachments/assets/8a12bcd5-a8fa-4556-9db5-1c7c7aee7ed0)
 
 
 
