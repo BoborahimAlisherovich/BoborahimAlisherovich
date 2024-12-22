@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salom,+Xush+kelibsiz!;Men+BoborahimDev👨‍💻, Backend developer &center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salom,+Xush+kelibsiz!;Men+BoborahimDev👨‍💻, Backend developer&center=true&size=30">
   </a>
 </h1>
 
 
 
-### :hammer_and_wrench: Ishlatayotgan Texnologiyalar:
+### :hammer_and_wrench:       Ishlatayotgan Texnologiyalar:
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="35"/>&nbsp;
