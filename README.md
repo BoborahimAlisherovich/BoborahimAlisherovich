@@ -32,10 +32,10 @@
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoborahimAlisherovich&theme=github_dark" width="100%" />
       </span></a>
   </p>
-  <span>
+<!--   <span>
   <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apollxo&theme=apprentice' />
   <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apollxo&theme=default' />
-    </span>
+    </span> -->
 <br>
 
 
