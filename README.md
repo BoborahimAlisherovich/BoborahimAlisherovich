@@ -52,3 +52,5 @@
 <br>
 
 <h3 align="center">Dasturlash olamida iz qoldirish uchun harakatdamiz! 🚀</h3>
+
+#new
