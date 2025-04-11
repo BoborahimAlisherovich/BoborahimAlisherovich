@@ -44,7 +44,7 @@
   <a href="mailto:boborahimrustamqulov0@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://t.me/Alisherov1ch_002">
+  <a href="https://t.me/Boborahim_00">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
@@ -53,4 +53,3 @@
 
 <h3 align="center">Dasturlash olamida iz qoldirish uchun harakatdamiz! 🚀</h3>
 
-#new
